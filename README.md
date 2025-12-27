@@ -17,6 +17,7 @@ Key variables used:
 - Total Discharges  
 - Average Beneficiary Risk Score
 
+
   Methods:
   
 - Data cleaning and removal of duplicates and missing values
@@ -29,6 +30,7 @@ Key variables used:
   
 - Train/test split for model evaluation
 
+
   Findings:
   
 - Medicare payment amounts are strongly and positively associated with hospital charges
@@ -39,12 +41,13 @@ Key variables used:
   
 - R² ≈ 0.91 for both train and test so model explains 91% of the variation in hospital charges
 
+
 Tools & Libraries:
 
 -Python  
 
 - Pandas
-- 
+ 
 - NumPy
   
 - Matplotlib
