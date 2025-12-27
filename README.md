@@ -20,7 +20,8 @@ Key variables used:
 - Average Beneficiary Risk Score
 
 
-  Methods:
+
+Methods:
   
 - Data cleaning and removal of duplicates and missing values
   
@@ -46,7 +47,7 @@ Key variables used:
 
 Tools & Libraries:
 
--Python  
+ -Python  
 
 - Pandas
  
