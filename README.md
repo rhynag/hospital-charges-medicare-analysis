@@ -5,7 +5,9 @@ This project uses and analyzes publicly available Medicare inpatient hospital da
 
 Data Source and Collection:
 **Source**: Centers for Medicare & Medicaid - https://data.cms.gov/provider-summary-by-type-of-service/medicare-inpatient-hospitals/medicare-inpatient-hospitals-by-provider/data 
+
 **Samples**: 3,093 hospitals
+
 **Features**: 57 volume, financial, and risk variables
 Key variables used:
 - Total Submitted Covered Charges  
