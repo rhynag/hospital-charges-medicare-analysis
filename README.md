@@ -10,7 +10,9 @@ Source: Centers for Medicare & Medicaid - https://data.cms.gov/provider-summary-
 Samples: 3,093 hospitals
 
 Features: 57 volume, financial, and risk variables
+
 Key variables used:
+
 - Total Submitted Covered Charges  
 - Total Medicare Payment Amount  
 - Total Payments  
@@ -21,7 +23,7 @@ Key variables used:
   Methods:
   
 - Data cleaning and removal of duplicates and missing values
-- 
+  
 - Log transformation of highly skewed financial variables
    
 - Linear regression modeling
