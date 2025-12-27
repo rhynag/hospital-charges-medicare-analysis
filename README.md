@@ -34,7 +34,7 @@ Methods:
 - Train/test split for model evaluation
 
 
-  Findings:
+Findings:
   
 - Medicare payment amounts are strongly and positively associated with hospital charges
   
