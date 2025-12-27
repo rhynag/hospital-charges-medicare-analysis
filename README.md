@@ -47,14 +47,14 @@ Methods:
 
 Tools & Libraries:
 
- -Python  
+-Python 
 
-- Pandas
- 
-- NumPy
-  
-- Matplotlib
-  
-- Scikit-learn
+-Pandas
+
+-NumPy
+
+-Matplotlib
+
+-Scikit-learn
 
   
